@@ -7,5 +7,5 @@ Useful tool for removing duplicates from your PC using hashing. Programm finds f
 
 Launch tests from ./Handler
 
-File "tests.py" added by HyperSkill
+File "tests.py" added by HyperSkill and using their "hstest" library
 
