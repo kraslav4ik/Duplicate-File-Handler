@@ -9,5 +9,5 @@ Python 3.8
 
 Launch tests from ./Handler
 
-File "tests.py" added by HyperSkill and using their "hstest" library
+File "tests.py" added by HyperSkill and using "hstest" library
 
