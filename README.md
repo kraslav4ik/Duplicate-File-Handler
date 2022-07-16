@@ -21,8 +21,9 @@ Filesystem-Cleaner/> python ./Handler/handler.py
 Filesystem-Cleaner/> python ./Handler/tests.py
 ```
 
+Project made as a part of JetBrains Academy course
 
-Tests are provided by HyperSkill
+Tests are provided by JetBrains Academy
 
 https://hyperskill.org/projects/176?track=2
 
