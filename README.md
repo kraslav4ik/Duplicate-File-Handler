@@ -1,7 +1,7 @@
 # Filesystem Cleaner
 Tool for removing duplicates based on extension, hash and size  in chosen directory.
 
-Programm finds files with identical extension, size and hash. And pop them.
+Program finds files with identical extension, size and hash. And pop them.
 
 Works with: Python 3.8
 
